@@ -24,7 +24,7 @@
 
 <details>
 <summary>:bulb: Most Used Languages</summary>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ilkerteymur&layout=compact'>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=omergzlaydn&layout=compact'>
 </details>
 
 ### ✍️  Quote from Matrix
@@ -36,7 +36,7 @@ you get used to it. i dont even see the code. all i see is blonde, brunette, rea
 By Cyper from Matrix.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ilkerteymur&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=omergzlaydn&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
