@@ -2,7 +2,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Welcome+!+👋;+I'm+Ömer..+;+I'm+Front-End+;+React+React-Native+;+Developer.;" />
 </h1>
 
-<br><br>🔭 I’m Udemig studying<br><br>🌱 "I am currently studying on Udemy, focusing on learning React Native....<br><br>🧳 🧳 I have expertise in Frontend and React Native, and I am continuously acquiring knowledge of new frameworks. I stay updated on the latest technologies.<br><br>👨‍💻 👨‍💻 Problem-solving, particularly finding solutions at the intersection of Frontend and React Native, excites me. I enjoy generating analytical solutions.<br><br>⚡ I am highly motivated, well-organized, and thrive on problem-solving as both an independent contributor and a team player."<br><br>📫 Reach me out: omrgzlaydn@gmail.com
+<br><br>I'm Ömer, an experienced React & Frontend / React-Native & Mobile Developer. My passion for software development drives me to focus on producing functional and readable code. I enjoy constantly coming up with new ideas to optimize existing applications and processes.
+
+My strong communication skills and eagerness to take on responsibilities aim to add value to projects. My determination to continuously improve myself and my ability to collaborate effectively in diverse teams have led to successful project outcomes. I stay updated with developments in coding and constantly strive to enhance my skills.<br><br> 📫 Reach me out: omrgzlaydn@gmail.com
 
 
 ## 🌐 Socials:
